@@ -1,27 +1,33 @@
 # Mini CRM
 
-A simple CRM application to manage leads and customer information.
+A simple CRM (Client lead Management) application built using HTML, CSS, and JavaScript.
 
 ## Features
+
 - Add new leads
 - View lead list
 - Update lead status
+  - New
+  - Contacted
 - Delete leads
+- Simple and responsive design
 
 ## Technologies Used
-- Node.js
-- JavaScript
+
 - HTML
 - CSS
+- JavaScript
 
-## How to Run
-1. Install dependencies:
-   npm install
+## How to Use
 
-2. Start the server:
-   npm start
+1. Download or clone the project.
+2. Open `index.html` in your browser.
+3. Start managing leads.
 
-3. Open the application in your browser.
+## Project Purpose
+
+This project was created to practice frontend web development and basic CRM functionality.
 
 ## Author
+
 Kavya
